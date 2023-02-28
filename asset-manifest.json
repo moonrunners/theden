@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.491e5d78.css",
-    "main.js": "/static/js/main.1fbcf210.js",
+    "main.css": "/static/css/main.2a66a083.css",
+    "main.js": "/static/js/main.54b2667d.js",
     "static/media/den-animated.gif": "/static/media/den-animated.94c39489a8eda806ebcc.gif",
     "static/media/roadmap-bg.png": "/static/media/roadmap-bg.fce6ce87d4761c961887.png",
     "static/media/moonrunners-font.ttf": "/static/media/moonrunners-font.21503c6a5385ab41dde9.ttf",
-    "static/media/animated-loadingbar.gif": "/static/media/animated-loadingbar.f1aa7dac38043bd8ab79.gif",
     "static/media/secrets-bg.png": "/static/media/secrets-bg.657193412c71ca4d3645.png",
+    "static/media/raffle-bg.png": "/static/media/raffle-bg.a76ac97a4ba465ab1611.png",
     "static/media/den.png": "/static/media/den.8dc9503ca7214696d4e1.png",
     "static/media/bouncing-wolf.gif": "/static/media/bouncing-wolf.aaa8bfa55d8a73f7f065.gif",
     "static/media/museum.png": "/static/media/museum.d746209dbdaf4bcff0a7.png",
@@ -17,11 +17,11 @@
     "static/media/inkpen.png": "/static/media/inkpen.946862f867874bbe27fc.png",
     "static/media/rocket.png": "/static/media/rocket.fdbc06ddd5e8bebd9c94.png",
     "index.html": "/index.html",
-    "main.491e5d78.css.map": "/static/css/main.491e5d78.css.map",
-    "main.1fbcf210.js.map": "/static/js/main.1fbcf210.js.map"
+    "main.2a66a083.css.map": "/static/css/main.2a66a083.css.map",
+    "main.54b2667d.js.map": "/static/js/main.54b2667d.js.map"
   },
   "entrypoints": [
-    "static/css/main.491e5d78.css",
-    "static/js/main.1fbcf210.js"
+    "static/css/main.2a66a083.css",
+    "static/js/main.54b2667d.js"
   ]
 }
