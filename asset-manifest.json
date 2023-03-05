@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1a0a565.css",
-    "main.js": "/static/js/main.75082f8a.js",
+    "main.css": "/static/css/main.17fe2487.css",
+    "main.js": "/static/js/main.253fc34e.js",
     "static/media/den-animated.gif": "/static/media/den-animated.94c39489a8eda806ebcc.gif",
     "static/media/roadmap-bg.png": "/static/media/roadmap-bg.fce6ce87d4761c961887.png",
     "static/media/moonrunners-font.ttf": "/static/media/moonrunners-font.21503c6a5385ab41dde9.ttf",
@@ -17,11 +17,11 @@
     "static/media/inkpen.png": "/static/media/inkpen.946862f867874bbe27fc.png",
     "static/media/rocket.png": "/static/media/rocket.fdbc06ddd5e8bebd9c94.png",
     "index.html": "/index.html",
-    "main.d1a0a565.css.map": "/static/css/main.d1a0a565.css.map",
-    "main.75082f8a.js.map": "/static/js/main.75082f8a.js.map"
+    "main.17fe2487.css.map": "/static/css/main.17fe2487.css.map",
+    "main.253fc34e.js.map": "/static/js/main.253fc34e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1a0a565.css",
-    "static/js/main.75082f8a.js"
+    "static/css/main.17fe2487.css",
+    "static/js/main.253fc34e.js"
   ]
 }
