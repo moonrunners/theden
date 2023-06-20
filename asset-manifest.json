@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1cbb702d.css",
-    "main.js": "/static/js/main.dd1d252b.js",
+    "main.js": "/static/js/main.2d023619.js",
     "static/media/den-animated.gif": "/static/media/den-animated.94c39489a8eda806ebcc.gif",
     "static/media/roadmap-bg.png": "/static/media/roadmap-bg.fce6ce87d4761c961887.png",
     "static/media/moonrunners-font.ttf": "/static/media/moonrunners-font.21503c6a5385ab41dde9.ttf",
@@ -21,10 +21,10 @@
     "static/media/rocket.png": "/static/media/rocket.fdbc06ddd5e8bebd9c94.png",
     "index.html": "/index.html",
     "main.1cbb702d.css.map": "/static/css/main.1cbb702d.css.map",
-    "main.dd1d252b.js.map": "/static/js/main.dd1d252b.js.map"
+    "main.2d023619.js.map": "/static/js/main.2d023619.js.map"
   },
   "entrypoints": [
     "static/css/main.1cbb702d.css",
-    "static/js/main.dd1d252b.js"
+    "static/js/main.2d023619.js"
   ]
 }
